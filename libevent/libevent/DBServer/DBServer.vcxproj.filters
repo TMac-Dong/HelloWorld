@@ -24,12 +24,27 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="db_operater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="db_logic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="db_world.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="db_server.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="db_operater.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="db_logic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="db_task.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
